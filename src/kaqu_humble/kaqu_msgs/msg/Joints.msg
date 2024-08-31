@@ -1,0 +1,17 @@
+float64 fr_mainbodyhip_joint
+float64 fr_hip1_joint
+float64 fr_14_joint
+
+float64 fl_mainbodyhip_joint
+float64 fl_hip1_joint
+float64 fl_14_joint
+
+float64 rr_mainbodyhip_joint
+float64 rr_hip1_joint
+float64 rr_14_joint
+
+float64 rl_mainbodyhip_joint
+float64 rl_hip1_joint
+float64 rl_14_joint
+
+
